@@ -1,6 +1,6 @@
 from sqlalchemy.orm import Session
 from app.models.formacion import Formacion
-from app.schemas.formacion import FormacionCreate, FormacionUpdate
+from schemas.formacion import FormacionCreate, FormacionUpdate
 
 
 # 🔹 Crear un nuevo registro

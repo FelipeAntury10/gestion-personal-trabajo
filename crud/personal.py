@@ -1,6 +1,6 @@
 from sqlalchemy.orm import Session
 from app.models.personal import Personal
-from app.schemas.personal import PersonalCreate, PersonalUpdate
+from schemas.personal import PersonalCreate, PersonalUpdate
 
 
 # 🔹 Crear un nuevo registro
