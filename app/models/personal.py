@@ -1,9 +1,9 @@
 from sqlalchemy import Column, Integer, String, Boolean
-from app.db import Base, SCHEMA_NAME
+from app.db import Base
 
 class Personal(Base):
     __tablename__ = "personal"
-    __table_args__ = {"schema": SCHEMA_NAME}
+    __table_args__ = {"schema":"grupo_1"}
 
     idPersona = Column(Integer, primary_key=True, index=True)
     idCargo = Column(Integer, nullable=False)
