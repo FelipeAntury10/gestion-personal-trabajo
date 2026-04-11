@@ -84,6 +84,11 @@ Configuración técnica
      DELETE /formacion/{id} → Eliminar
 
 
+7. Evidencias de funcionamiento 
+
+
+
+
 8. Control de versiones
  Repositorio GitHub: https://github.com/FelipeAntury10/gestion-personal-trabajo.git
 
