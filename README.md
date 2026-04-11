@@ -93,7 +93,7 @@ Configuración técnica
 ![POST de personal](./imagenes/post.png)
 ![GET de personal](./imagenes/get.png)
 ![PUT de personal](./imagenes/put1.png)
-![PUT de personal](./imagenes/put2.png)
+![PUT de personal](imagenes/put2.png)
 ![DELETE de personal](./imagenes/delete.png)
 ![evidencia Postgre Post](./imagenes/evidenciaPost1.png)
 ![evidencia Postgre Delete](./imagenes/evidenciaDatosBorrados.png)
