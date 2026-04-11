@@ -113,7 +113,9 @@ d42a2a7f84c552654d4fbd23dd8d79cb14cca52d
 3596be995d95c3337e22218d3cb7e29d7498a9f1
 
 Integrante 3: Completando detalles de código y readme
-
+a29443c32c2b6d74d4b6347d62a06c6ed09c72d8
+f833eea9d3cf4f25eb411e106cee75fba9e11afc
+e38e8f791a7d4a7a6733d2995f6ac022b881d3a8
 
 9. Conclusiones
 
