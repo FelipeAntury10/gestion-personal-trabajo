@@ -104,16 +104,18 @@ Integrante 3: Completando detalles de código y readme
 
 Durante el desarrollo del proyecto se logró:
 
-Implementar un servicio web con FastAPI
-Aplicar arquitectura por capas
-Conectar a PostgreSQL usando SQLAlchemy
-Utilizar variables de entorno para seguridad
-Implementar operaciones CRUD completas
-⚠️ Dificultades
-Configuración de conexión a la base de datos
-Manejo de variables de entorno
-Organización modular del proyecto
-✅ Soluciones
-Uso de archivo .env
-Separación clara de responsabilidades
-Pruebas constantes con Swagger
+- Implementar un servicio web con FastAPI
+- Aplicar arquitectura por capas
+- Conectar a PostgreSQL usando SQLAlchemy
+- Utilizar variables de entorno para seguridad
+- Implementar operaciones CRUD completas
+
+Dificultades:
+- Configuración de conexión a la base de datos
+- Manejo de variables de entorno
+- Organización modular del proyecto
+
+Soluciones:
+- Uso de archivo .env
+- Separación clara de responsabilidades
+- Pruebas constantes con Swagger
