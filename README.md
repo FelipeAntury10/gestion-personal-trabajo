@@ -86,7 +86,17 @@ Configuración técnica
 
 7. Evidencias de funcionamiento 
 
+- ejecución del servidor: 
 
+![servidor](./imagenes/terminal.png)
+![swagger](./imagenes/captura1.png)
+![POST de personal](./imagenes/post.png)
+![GET de personal](./imagenes/get.png)
+![PUT de personal](./imagenes/put1.png)
+![PUT de personal](./imagenes/put2.png)
+![DELETE de personal](./imagenes/delete.png)
+![evidencia Postgre Post](./imagenes/evidenciaPost.png)
+![evidencia Postgre Delete](./imagenes/evidenciaDatosBorrados.png)
 
 
 8. Control de versiones
